@@ -1,0 +1,4 @@
+com\kirat\wikimediaKafka\WikimediaKafkaApplication.class
+com\kirat\wikimediaKafka\KafkaTopicConfig.class
+com\kirat\wikimediaKafka\WikimediaChangesHandler.class
+com\kirat\wikimediaKafka\WikimediaChangesProducer.class
